@@ -47,14 +47,14 @@ This journey follows a structured AI/ML roadmap:
 ## Daily Logs
 
 - [Day 1: Starting the AI/ML Journey with Mathematics](Day1/README.md)
+- [Day 2: Matrix Multiplication and Determinants](Day2/README.md)
 
 ## Repository Structure
 
 ```bash
 .
-├── day-01/
-├── day-02/
-├── day-03/
+├── Day1/
+├── Day2/
 ├── notes/
 ├── notebooks/
 ├── projects/

@@ -48,6 +48,7 @@ This journey follows a structured AI/ML roadmap:
 
 - [Day 1: Starting the AI/ML Journey with Mathematics](Day1/README.md)
 - [Day 2: Matrix Multiplication and Determinants](Day2/README.md)
+- [Day 3: Inverse Matrices and Dot Products](Day%203/README.md)
 
 ## Repository Structure
 
@@ -55,8 +56,11 @@ This journey follows a structured AI/ML roadmap:
 .
 ├── Day1/
 ├── Day2/
+├── Day 3/
+│   └── README.md
 ├── notes/
 ├── notebooks/
 ├── projects/
 ├── resources/
 └── README.md
+```

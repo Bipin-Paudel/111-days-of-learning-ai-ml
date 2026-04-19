@@ -51,6 +51,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 3: Inverse Matrices and Dot Products](Day%203/README.md)
 - [Day 4: Cross Products, Duality, and Cramer's Rule](Day4/README.md)
 - [Day 5: Change of Basis, Eigenvectors, and Eigenvalues](Day5/README.md)
+- [Day 6: Fast Eigenvalues and Abstract Vector Spaces](Day%206/README.md)
 
 ## Repository Structure
 
@@ -63,6 +64,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day4/
 │   └── README.md
 ├── Day5/
+│   └── README.md
+├── Day 6/
 │   └── README.md
 ├── notes/
 ├── notebooks/

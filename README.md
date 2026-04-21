@@ -53,6 +53,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 5: Change of Basis, Eigenvectors, and Eigenvalues](Day5/README.md)
 - [Day 6: Fast Eigenvalues and Abstract Vector Spaces](Day%206/README.md)
 - [Day 7: Derivatives and Integrals](Day%207/README.md)
+- [Day 8: Derivative Formulas Through Geometry](Day%208/README.md)
 
 ## Repository Structure
 
@@ -69,6 +70,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 6/
 │   └── README.md
 ├── Day 7/
+│   └── README.md
+├── Day 8/
 │   └── README.md
 ├── notes/
 ├── notebooks/

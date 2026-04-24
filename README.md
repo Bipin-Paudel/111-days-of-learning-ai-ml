@@ -56,6 +56,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 8: Derivative Formulas Through Geometry](Day%208/README.md)
 - [Day 9: Euler's Number and Implicit Differentiation](Day%209/README.md)
 - [Day 10: Limits, Integrals, and Higher-Order Derivatives](Day%2010/README.md)
+- [Day 11: Fixed Points and Taylor Series](Day%2011/README.md)
 
 ## Repository Structure
 
@@ -78,6 +79,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 9/
 │   └── README.md
 ├── Day 10/
+│   └── README.md
+├── Day 11/
 │   └── README.md
 ├── notes/
 ├── notebooks/

@@ -58,6 +58,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 10: Limits, Integrals, and Higher-Order Derivatives](Day%2010/README.md)
 - [Day 11: Fixed Points and Taylor Series](Day%2011/README.md)
 - [Day 12: Bayes' Theorem](Day%2012/README.md)
+- [Day 13: Binomial Distributions and Probability Density](Day%2013/README.md)
 
 ## Repository Structure
 
@@ -84,6 +85,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 11/
 │   └── README.md
 ├── Day 12/
+│   └── README.md
+├── Day 13/
 │   └── README.md
 ├── notes/
 ├── notebooks/

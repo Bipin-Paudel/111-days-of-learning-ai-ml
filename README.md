@@ -59,6 +59,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 11: Fixed Points and Taylor Series](Day%2011/README.md)
 - [Day 12: Bayes' Theorem](Day%2012/README.md)
 - [Day 13: Binomial Distributions and Probability Density](Day%2013/README.md)
+- [Day 14: Epidemics, Exponential Growth, and Logistic Curves](Day%2014/Readme.md)
 
 ## Repository Structure
 
@@ -88,6 +89,8 @@ This journey follows a structured AI/ML roadmap:
 │   └── README.md
 ├── Day 13/
 │   └── README.md
+├── Day 14/
+│   └── Readme.md
 ├── notes/
 ├── notebooks/
 ├── projects/

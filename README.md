@@ -59,7 +59,11 @@ This journey follows a structured AI/ML roadmap:
 - [Day 11: Fixed Points and Taylor Series](Day%2011/README.md)
 - [Day 12: Bayes' Theorem](Day%2012/README.md)
 - [Day 13: Binomial Distributions and Probability Density](Day%2013/README.md)
-- [Day 14: Epidemics, Exponential Growth, and Logistic Curves](Day%2014/Readme.md)
+- [Day 14: Epidemics, Exponential Growth, and Logistic Curves](Day%2014/README.md)
+- [Day 15: Central Limit Theorem](Day%2015/Readme.md)
+- [Day 16: Why π is in the Normal Distribution](Day%2016/Readme.md)
+- [Day 17: Convolutions and Adding Random Variables](Day%2017/Readme.md)
+- [Day 18: Gaussian Convolution and the Central Limit Theorem](Day%2018/README.md)
 
 ## Repository Structure
 
@@ -90,7 +94,15 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 13/
 │   └── README.md
 ├── Day 14/
+│   └── README.md
+├── Day 15/
 │   └── Readme.md
+├── Day 16/
+│   └── Readme.md
+├── Day 17/
+│   └── Readme.md
+├── Day 18/
+│   └── README.md
 ├── notes/
 ├── notebooks/
 ├── projects/

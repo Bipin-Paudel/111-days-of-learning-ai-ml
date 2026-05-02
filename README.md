@@ -64,6 +64,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 16: Why π is in the Normal Distribution](Day%2016/Readme.md)
 - [Day 17: Convolutions and Adding Random Variables](Day%2017/Readme.md)
 - [Day 18: Gaussian Convolution and the Central Limit Theorem](Day%2018/README.md)
+- [Day 19: Web Scraping with BeautifulSoup and Pandas](Day%2019/README.md)
 
 ## Repository Structure
 
@@ -102,6 +103,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 17/
 │   └── Readme.md
 ├── Day 18/
+│   └── README.md
+├── Day 19/
 │   └── README.md
 ├── notes/
 ├── notebooks/

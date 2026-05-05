@@ -65,6 +65,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 17: Convolutions and Adding Random Variables](Day%2017/Readme.md)
 - [Day 18: Gaussian Convolution and the Central Limit Theorem](Day%2018/README.md)
 - [Day 19: Web Scraping with BeautifulSoup and Pandas](Day%2019/README.md)
+- [Day 20: Build With AI Camp and RAG Agent Deployment](Day%2020/README.md)
 - [Day 21: Titanic Data Exploration and Univariate Analysis](Day%2021/README.md)
 
 ## Repository Structure
@@ -106,6 +107,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 18/
 │   └── README.md
 ├── Day 19/
+│   └── README.md
+├── Day 20/
 │   └── README.md
 ├── Day 21/
 │   └── README.md

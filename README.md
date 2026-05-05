@@ -67,6 +67,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 19: Web Scraping with BeautifulSoup and Pandas](Day%2019/README.md)
 - [Day 20: Build With AI Camp and RAG Agent Deployment](Day%2020/README.md)
 - [Day 21: Titanic Data Exploration and Univariate Analysis](Day%2021/README.md)
+- [Day 22: Pandas Profiling and Bivariate Analysis](Day%2022/README.md)
 
 ## Repository Structure
 
@@ -111,6 +112,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 20/
 │   └── README.md
 ├── Day 21/
+│   └── README.md
+├── Day 22/
 │   └── README.md
 ├── notes/
 ├── notebooks/

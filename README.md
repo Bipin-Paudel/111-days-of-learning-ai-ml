@@ -68,6 +68,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 20: Build With AI Camp and RAG Agent Deployment](Day%2020/README.md)
 - [Day 21: Titanic Data Exploration and Univariate Analysis](Day%2021/README.md)
 - [Day 22: Pandas Profiling and Bivariate Analysis](Day%2022/README.md)
+- [Day 23: Feature Engineering](Day%2023/README.md)
 
 ## Repository Structure
 
@@ -114,6 +115,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 21/
 │   └── README.md
 ├── Day 22/
+│   └── README.md
+├── Day 23/
 │   └── README.md
 ├── notes/
 ├── notebooks/

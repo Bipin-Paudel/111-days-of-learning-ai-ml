@@ -70,6 +70,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 22: Pandas Profiling and Bivariate Analysis](Day%2022/README.md)
 - [Day 23: Feature Engineering](Day%2023/README.md)
 - [Day 24: Feature Scaling](Day%2024/README.md)
+- [Day 25: Normalization with MinMaxScaler](Day%2025/README.md)
 
 ## Repository Structure
 
@@ -120,6 +121,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 23/
 │   └── README.md
 ├── Day 24/
+│   └── README.md
+├── Day 25/
 │   └── README.md
 ├── notes/
 ├── notebooks/

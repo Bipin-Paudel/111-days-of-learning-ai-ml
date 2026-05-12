@@ -74,6 +74,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 26: Ordinal Encoding and Label Encoding](Day%2026/README.md)
 - [Day 27: One-Hot Encoding](Day%2027/README.md)
 - [Day 28: ColumnTransformer](Day%2028/README.md)
+- [Day 29: Pipelines for Titanic Preprocessing](Day%2029/README.md)
 
 ## Repository Structure
 
@@ -132,6 +133,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 27/
 │   └── README.md
 ├── Day 28/
+│   └── README.md
+├── Day 29/
 │   └── README.md
 ├── notes/
 ├── notebooks/

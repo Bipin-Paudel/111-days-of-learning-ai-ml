@@ -73,6 +73,7 @@ This journey follows a structured AI/ML roadmap:
 - [Day 25: Normalization with MinMaxScaler](Day%2025/README.md)
 - [Day 26: Ordinal Encoding and Label Encoding](Day%2026/README.md)
 - [Day 27: One-Hot Encoding](Day%2027/README.md)
+- [Day 28: ColumnTransformer](Day%2028/README.md)
 
 ## Repository Structure
 
@@ -129,6 +130,8 @@ This journey follows a structured AI/ML roadmap:
 ├── Day 26/
 │   └── README.md
 ├── Day 27/
+│   └── README.md
+├── Day 28/
 │   └── README.md
 ├── notes/
 ├── notebooks/
